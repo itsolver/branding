@@ -2,7 +2,7 @@
 
 Canonical IT Solver brand assets, refreshed from the 2019 style guide.
 
-![IT Solver primary logo](logo/2019/it_solver_logo_horizontal_no_tagline.svg)
+![IT Solver primary logo](logo/it_solver_logo_horizontal_no_tagline.svg)
 
 ## Style guide
 
@@ -27,11 +27,11 @@ More detail: [typography.md](typography.md)
 
 ## Canonical logos
 
-- Primary horizontal: [logo/2019/it_solver_logo_horizontal_no_tagline.svg](logo/2019/it_solver_logo_horizontal_no_tagline.svg)
-- Reverse horizontal: [logo/2019/it_solver_logo_horizontal_no_tagline_reverse.svg](logo/2019/it_solver_logo_horizontal_no_tagline_reverse.svg)
-- Emblem square: [logo/2019/it_solver_logo_emblem_square_viewBox.svg](logo/2019/it_solver_logo_emblem_square_viewBox.svg)
-- Emblem reverse: [logo/2019/it_solver_logo_emblem_reverse.svg](logo/2019/it_solver_logo_emblem_reverse.svg)
-- Source artwork: [logo/2019/it_solver_logo.ai](logo/2019/it_solver_logo.ai)
+- Primary horizontal: [logo/it_solver_logo_horizontal_no_tagline.svg](logo/it_solver_logo_horizontal_no_tagline.svg)
+- Reverse horizontal: [logo/it_solver_logo_horizontal_no_tagline_reverse.svg](logo/it_solver_logo_horizontal_no_tagline_reverse.svg)
+- Emblem square: [logo/it_solver_logo_emblem_square_viewBox.svg](logo/it_solver_logo_emblem_square_viewBox.svg)
+- Emblem reverse: [logo/it_solver_logo_emblem_reverse.svg](logo/it_solver_logo_emblem_reverse.svg)
+- Source artwork: [logo/it_solver_logo.ai](logo/it_solver_logo.ai)
 
 ## Backgrounds
 
